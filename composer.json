@@ -3,7 +3,7 @@
     "description": "A backend for your frontend. Powered by Drupal.",
     "type": "drupal-profile",
     "license": "GPL-2.0+",
-    "minimum-stability": "alpha",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "repositories": [
         {
